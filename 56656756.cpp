@@ -6,10 +6,7 @@
 int main() {
     std::cout << "Hello World!\n";
     std::cout << "This is commit from Loureas";
-    dfgihj
-        dfh
-
-
+    std::cout << "Виктор Корнеплод. Ваша Эола просто бомба!";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
