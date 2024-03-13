@@ -7,6 +7,7 @@ int main() {
     std::cout << "Hello World!\n";
     std::cout << "This is commit from Loureas";
     std::cout << "Виктор Корнеплод. Ваша Эола просто бомба!";
+    std::cout << "Виктор Корнеплод. Это мой коммит от pull request";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
